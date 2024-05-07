@@ -18,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephperrott&show_icons=true&locale=en&layout=compact" alt="sven3270350" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josephperrott&show_icons=true&locale=en" alt="sven3270350" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sven3270350&show_icons=true&locale=en" alt="sven3270350" /></p>
